@@ -1,0 +1,8 @@
+fastapi
+requests
+uvicorn[standard]
+ultralytics
+opencv-python-headless
+boto3
+botocore
+supabase
